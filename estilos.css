@@ -4,3 +4,8 @@ body {
 section h2{
     font-size: 24px;
 }
+@media (min-width 768px) {
+    section h2 {
+        font-size: 18px;
+    }
+}
